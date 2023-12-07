@@ -1,9 +1,9 @@
-# Łukasz Wywioł - Page about me
+# Łukasz Wywioł - Currency converter
 
 ## Html, css + JavaScript
 
-### Exercises performed as part of the Frontend Developer course from scratch with HTML, CSS and JavaScript elements and using them on your own website. The project used the FlexBox function and BEM principles. Several JavaScript-based projects have been done.
+### Currency converter written in HTML and CSS using JavaScript
 
-https://lukaszwywiol.github.io/homepage/
+https://lukaszwywiol.github.io/currency_converter/
 
-![Łukasz Wywioł](images/zdjecie_400x500.jpg)
+![Currency converter](images/currency_cenverter.png)
