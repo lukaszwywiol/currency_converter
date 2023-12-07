@@ -6,4 +6,4 @@
 
 https://lukaszwywiol.github.io/currency_converter/
 
-![Currency converter](images/currency_cenverter.png)
+![Currency converter](images/currency_converter.png)
