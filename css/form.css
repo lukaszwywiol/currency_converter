@@ -1,0 +1,69 @@
+.form__labelText {
+  width: 100%;
+  max-width: 200px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.form__field {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 100%;
+  max-width: 350px;
+  border-radius: 5px;
+}
+
+.form__field--textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.form__field:required {
+  border-color: 777;
+}
+
+.form__field:invalid {
+  background-color: hsl(0, 53%, 90%);
+}
+
+.form__field:disabled.form__field:disabled {
+  background-color: #bbb;
+}
+
+.form__field:read-only {
+  background-color: #eee;
+}
+
+.form__field--select.form__field--select {
+  background-color: white;
+}
+
+.form__button {
+  width: 100%;
+  border: 2px;
+  background-color: teal;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.form__button:hover {
+  background-color: hsl(180, 100%, 30%);
+}
+
+.form__button:active {
+  background-color: hsl(180, 100%, 35%);
+}
+
+.form__fieldset {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.form__legend {
+  background-color: teal;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}

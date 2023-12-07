@@ -1,0 +1,7 @@
+.element {
+  background-image: url("../images/globe.jpg");
+  background-size: cover;
+  background-position: top center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
